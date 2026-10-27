@@ -1,3 +1,5 @@
 print("Hello Omkar")
 print("I am learning Generative AI>")
 print("I Am a Guidewire PolicyCnter Developer")
+print ("I am a fresher in Guidewire PolicyCenter")
+print("I am a fresher in Guidewire PolicyCenter")
